@@ -12,3 +12,6 @@ This project will reading voltage value from 48v battery using esp32 and voltage
 ![image](https://github.com/bimarenth/Voltage-Monitoring-esp32/assets/94059195/0383d301-6fa8-4b11-b851-ff2b050c84b6)
 
 ![WhatsApp Image 2023-07-28 at 05 42 25](https://github.com/bimarenth/Voltage-Monitoring-esp32/assets/94059195/16ebc4d5-f7f5-4e28-9a98-cc59b9ae20ca)
+
+## Thinkercad link
+https://www.tinkercad.com/things/9ed7D9Qrtfk?sharecode=undefined
